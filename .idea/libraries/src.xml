@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/AbstractTypes/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/Any/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/DateTime/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/MixedContent/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/OrderMatters/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/SampleTemplate/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/SchemaEnum/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/SubstitutionGroup/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/Validation/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/XQueryXPath/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/XmlSort/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/XmlTree/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/XsdConfig/src" />
+      <root url="file://$PROJECT_DIR$/../../../../Backup/Drivers/xmlbeans-5.1.0/samples/vxsdb/src/java" />
+    </SOURCES>
+  </library>
+</component>
